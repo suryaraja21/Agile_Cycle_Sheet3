@@ -1,0 +1,5 @@
+# Created at 2026-03-10T16:14:44.252
+Boot Manifest-JAR contains absolute paths in classpath 'D:\folder\clg\YR3\sem6\Agile dec process and decops\lab\Agile_Cycle_sheet3\Agile_Cycle_Sheet3\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
